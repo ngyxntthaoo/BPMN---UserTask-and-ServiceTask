@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "label": "Hoàn thành giao hàng cho khách hàng",
+      "type": "checkbox",
+      "id": "Field_0wcifpv",
+      "key": "field_00cpjlj"
+    }
+  ],
+  "type": "default",
+  "id": "Form_03ngkbo"
+}

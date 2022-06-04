@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "values": [
+        {
+          "label": "Khách hàng nhận hàng",
+          "value": "yes"
+        },
+        {
+          "label": "Khách hàng không nhận hàng",
+          "value": "no"
+        }
+      ],
+      "label": "Liên hệ cho khách hàng ",
+      "type": "radio",
+      "id": "Field_020xenm",
+      "key": "receive",
+      "validate": {
+        "required": true
+      }
+    }
+  ],
+  "type": "default",
+  "id": "Form_1buh2sc"
+}

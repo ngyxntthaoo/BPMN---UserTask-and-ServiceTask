@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "label": "Họ và tên ",
+      "type": "textfield",
+      "id": "Field_0igsxgx",
+      "key": "field_0odxl1k",
+      "validate": {
+        "required": true
+      }
+    },
+    {
+      "label": "Địa chỉ ",
+      "type": "textfield",
+      "id": "Field_0n06d6a",
+      "key": "field_0pepz6r",
+      "validate": {
+        "required": true
+      }
+    },
+    {
+      "label": "Số điện thoại",
+      "type": "textfield",
+      "id": "Field_1jdxnys",
+      "key": "field_10tmi47",
+      "validate": {
+        "required": true
+      }
+    },
+    {
+      "label": "Thời gian giao hàng (ngày)",
+      "type": "number",
+      "id": "Field_1ujrsfp",
+      "key": "field_0k9vm24",
+      "validate": {
+        "min": 0,
+        "max": 10,
+        "required": true
+      }
+    }
+  ],
+  "type": "default",
+  "id": "Form_13vf532"
+}
