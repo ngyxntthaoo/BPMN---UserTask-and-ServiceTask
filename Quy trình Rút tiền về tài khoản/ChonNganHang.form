@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "values": [
+        {
+          "label": "Viettinbank",
+          "value": "viettinbank"
+        },
+        {
+          "label": "Vietcombank",
+          "value": "vietcombank"
+        },
+        {
+          "label": "Sacombank",
+          "value": "sacombank"
+        }
+      ],
+      "label": "Chọn Ngân Hàng",
+      "type": "radio",
+      "id": "Field_0p1kku4",
+      "key": "bank"
+    }
+  ],
+  "type": "default",
+  "id": "ChonNganHang"
+}

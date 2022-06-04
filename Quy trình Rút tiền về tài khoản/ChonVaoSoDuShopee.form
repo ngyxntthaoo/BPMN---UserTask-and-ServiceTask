@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "values": [
+        {
+          "label": "Số dư của Shopee",
+          "value": "sodu"
+        }
+      ],
+      "label": "Chọn",
+      "type": "select",
+      "id": "Field_1jxv6ob",
+      "key": "sodushopee"
+    },
+    {
+      "label": "Đã có Ngân Hàng? (yes or no)",
+      "type": "textfield",
+      "id": "Field_0uln8kf",
+      "key": "daconganhang",
+      "validate": {
+        "required": true,
+        "regularExpressionPattern": "yes|no"
+      }
+    }
+  ],
+  "type": "default",
+  "id": "ChonVaoSoDuShopee"
+}

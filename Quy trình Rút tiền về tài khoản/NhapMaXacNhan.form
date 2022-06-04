@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "label": "Nhập mã xác nhận",
+      "type": "textfield",
+      "id": "Field_12676ts",
+      "key": "maxacnhan",
+      "validate": {
+        "required": true
+      }
+    },
+    {
+      "label": "Đã xác nhận? (yes or no)",
+      "type": "textfield",
+      "id": "Field_1v46b33",
+      "key": "xacnhan",
+      "validate": {
+        "regularExpressionPattern": "yes|no",
+        "required": true
+      }
+    }
+  ],
+  "type": "default",
+  "id": "NhapMaXacNhan"
+}

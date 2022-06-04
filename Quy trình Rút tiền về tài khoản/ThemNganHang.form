@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "action": "submit",
+      "label": "Thêm ngân hàng",
+      "type": "button",
+      "id": "Field_08ogg2i",
+      "key": "field_0004suz"
+    }
+  ],
+  "type": "default",
+  "id": "ThemNganHang"
+}

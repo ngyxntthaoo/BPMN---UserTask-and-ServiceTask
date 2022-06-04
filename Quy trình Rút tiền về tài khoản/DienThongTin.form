@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "values": [
+        {
+          "label": "Viettinbank",
+          "value": "viettinbank"
+        },
+        {
+          "label": "Vietcombank",
+          "value": "vietcombank"
+        },
+        {
+          "label": "Sacombank",
+          "value": "sacombank"
+        }
+      ],
+      "label": "Ngân hàng",
+      "type": "select",
+      "id": "Field_1yrhn4e",
+      "key": "field_1jqa52o",
+      "validate": {
+        "required": true
+      }
+    },
+    {
+      "label": "Họ và Tên",
+      "type": "textfield",
+      "id": "Field_1qmtk08",
+      "key": "hoten",
+      "validate": {
+        "required": true
+      }
+    },
+    {
+      "label": "CMND Hoặc CCCD",
+      "type": "textfield",
+      "id": "Field_032qf5w",
+      "key": "CMT",
+      "validate": {
+        "required": true
+      }
+    },
+    {
+      "label": "Mã thẻ",
+      "type": "textfield",
+      "id": "Field_1u2faii",
+      "key": "mathe",
+      "validate": {
+        "required": true
+      }
+    },
+    {
+      "label": "Số điện thoại",
+      "type": "textfield",
+      "id": "Field_1ay3ut0",
+      "key": "sdt",
+      "validate": {
+        "required": true
+      }
+    }
+  ],
+  "type": "default",
+  "id": "DienThongTin"
+}

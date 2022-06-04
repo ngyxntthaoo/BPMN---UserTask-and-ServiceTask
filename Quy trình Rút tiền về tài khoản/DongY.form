@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "action": "submit",
+      "label": "Đồng ý",
+      "type": "button",
+      "id": "Field_1xs644i",
+      "key": "field_138s7u8"
+    }
+  ],
+  "type": "default",
+  "id": "DongY"
+}
