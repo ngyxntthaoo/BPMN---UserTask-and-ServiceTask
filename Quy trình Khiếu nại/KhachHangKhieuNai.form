@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "label": "Họ tên khách hàng",
+      "type": "textfield",
+      "id": "Field_0xsti6i",
+      "key": "name",
+      "validate": {
+        "required": true,
+        "maxLength": 100,
+        "minLength": 8
+      }
+    },
+    {
+      "label": "Số điện thoại",
+      "type": "number",
+      "id": "Field_1y8y4fb",
+      "key": "phoneNumber",
+      "validate": {
+        "required": true
+      }
+    },
+    {
+      "label": "Thời gian khiếu nại",
+      "type": "textfield",
+      "id": "Field_0lp8xyo",
+      "key": "time",
+      "validate": {
+        "required": true
+      }
+    }
+  ],
+  "type": "default",
+  "id": "KhachHangKhieuNai"
+}

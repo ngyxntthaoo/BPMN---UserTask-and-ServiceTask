@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "label": "Vấn đề khiếu nại?",
+      "type": "textfield",
+      "id": "Field_1qa058s",
+      "key": "problem",
+      "validate": {
+        "required": true
+      }
+    },
+    {
+      "label": "Sản phẩm khiếu nại?",
+      "type": "textfield",
+      "id": "Field_088bq2y",
+      "key": "product",
+      "validate": {
+        "required": true
+      }
+    },
+    {
+      "values": [
+        {
+          "label": "Có",
+          "value": "yes"
+        },
+        {
+          "value": "no",
+          "label": "Không"
+        }
+      ],
+      "label": "Khiếu nại có hợp lý không?",
+      "type": "radio",
+      "id": "Field_03qbitr",
+      "key": "consideration",
+      "validate": {
+        "required": true
+      }
+    }
+  ],
+  "type": "default",
+  "id": "XemXetKhieuNai"
+}

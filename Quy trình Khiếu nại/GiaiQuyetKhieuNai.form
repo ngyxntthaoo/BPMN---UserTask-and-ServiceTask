@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "label": "Nội dung khiếu nại",
+      "type": "textfield",
+      "id": "Field_1th2tfh",
+      "key": "content",
+      "validate": {
+        "required": true
+      }
+    },
+    {
+      "label": "Phương án giải quyết",
+      "type": "textfield",
+      "id": "Field_1qupz2m",
+      "key": "solve",
+      "validate": {
+        "required": true
+      }
+    }
+  ],
+  "type": "default",
+  "id": "GiaiQuyetKhieuNai"
+}
